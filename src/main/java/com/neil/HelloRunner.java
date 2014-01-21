@@ -1,4 +1,4 @@
-package main;
+package com.neil;
 
 public class HelloRunner {
   public static void main(String[] args) {

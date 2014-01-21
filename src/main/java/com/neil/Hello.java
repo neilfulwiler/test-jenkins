@@ -1,4 +1,4 @@
-package main;
+package com.neil;
 
 public class Hello {
 
@@ -12,6 +12,10 @@ public class Hello {
     for (int i=0; i<5; i++) {
       System.out.println(String.format("Hello, %s!", name));
     }
+  }
+
+  public int add(int a, int b) {
+      return a+b;
   }
 }
 

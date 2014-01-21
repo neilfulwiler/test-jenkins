@@ -3,4 +3,6 @@ build/
 gradle/
 gradlew
 gradlew.bat
-
+test-jenkins.iml
+test-jenkins.ipr
+test-jenkins.iws

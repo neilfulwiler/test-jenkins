@@ -1,5 +1,13 @@
 apply plugin: 'java'
 apply plugin: 'application'
+apply plugin: 'idea'
 
-mainClassName = "main.HelloRunner"
+mainClassName = "com.neil.HelloRunner"
 
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  testCompile 'junit:junit:4.11' // test-only dependencies here
+}
