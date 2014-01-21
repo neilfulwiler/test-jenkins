@@ -15,3 +15,5 @@ git push origin master
 
 you actually need to press the big green button on github.com
 (or use the github api with curl)
+
+* [setting up jenkins security](https://wiki.jenkins-ci.org/display/JENKINS/Standard+Security+Setup)
