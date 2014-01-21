@@ -9,7 +9,9 @@ public class Hello {
   }
 
   public void sayHi() {
-    System.out.println(String.format("Hello, %s!", name));
+    for (int i=0; i<10; i++) {
+      System.out.println(String.format("Hello, %s!", name));
+    }
   }
 }
 
