@@ -1,6 +1,6 @@
 # README
 
-For testing jenkins
+For testing jenkins. I've been roughly following [this tutorial]( http://www.okta.com/blog/2012/04/simple-jenkins-configuration-and-deployment/) for jenkins setup. 
 
 ## Things I've learned
 
